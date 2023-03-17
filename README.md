@@ -6,6 +6,7 @@
 </ul>
 <br>
 ## Questions
+<br>
 <ol>
 <li>Given a set of numbers where each number act as length of an side of triangle. Find the total number of combinaions of triangles that can be formed using the given length.</li><br>
 <li>Given a binary string that contains only 1s,0s. Find the number of flips that are required to transform the string into an alternating binary string.</li><br>
