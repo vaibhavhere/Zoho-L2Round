@@ -5,7 +5,7 @@
 <li>I was able to solve all the given <b>5</b> problem statements and also had the output verified by the Invigilator.</li>
 </ul>
 <br>
-## Questions
+# Questions
 <br>
 <ol>
 <li>Given a set of numbers where each number act as length of an side of triangle. Find the total number of combinaions of triangles that can be formed using the given length.</li><br>
