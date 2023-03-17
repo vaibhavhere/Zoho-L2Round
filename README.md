@@ -4,7 +4,6 @@
 <li>The L2 Round had a duration of 3 hours wherein the candidate is asked to solve and explain each approach to the question.</li>
 <li>I was able to solve all the given <b>5</b> problem statements and also had the output verified by the Invigilator.</li>
 </ul>
-<br>
 
 # Questions
 <br>
