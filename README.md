@@ -13,3 +13,7 @@
 <li>Given an array of 0s,1s. A Robot is trying to reach the bottom-left of the array. Robot begins at 0,0. Robot can move down and right, Cannot pass through walls(denoted by 1). Return true/false.</li><br>
 <li>Given a string of times h:mm:ss. Find the minimum time duration between all the strings.</li>
 </ol>
+![wid4](https://user-images.githubusercontent.com/82175956/228308427-82c51ae6-471e-4359-b90a-7bae7b559b14.jpg)
+![wid1](https://user-images.githubusercontent.com/82175956/228308434-45e570d1-ae73-47cc-bf11-3daecbdb3bd9.jpg)
+![wid3](https://user-images.githubusercontent.com/82175956/228308443-0f9ff434-cbb9-4ffc-868a-a69795a8ebad.jpg)
+![wid2](https://user-images.githubusercontent.com/82175956/228308444-862fb4d9-7a93-4c5d-b84a-4cb8450ed688.jpg)
